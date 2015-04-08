@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Babysteps</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Vaccine Scheduler</string>
+    <string name="tab_name">Vaccine Scheduler tab</string>
+    <string name="viewButton">View Vaccine Schedule</string>
+    <string name="createButton">Add Entry</string>
+    <string name="updateButton">Modify Entry</string>
+    <string name="deleteButton">Delete Entry</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
